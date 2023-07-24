@@ -1,1 +1,1 @@
-var sequelize = module.exports = require('./lib/sequelize.js');
+export { default } from "./lib/sequelize.js";
