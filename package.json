@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Sequelize adapter for Agenda",
   "main": "index.js",
+  "type": "module",
   "scripts": {},
   "repository": {
     "type": "git",
